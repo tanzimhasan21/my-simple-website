@@ -4,3 +4,7 @@ div{
     border: 5px dotted black;
     margin-bottom: 10px;
 }
+img{
+    width: 100px;
+    border: 3px dashed white;
+}
